@@ -5,12 +5,12 @@
 1. subject_id : identifier of subject. 
 
 2. activity_code : 
-- 1 WALKING
-- 2 WALKING_UPSTAIRS
-- 3 WALKING_DOWNSTAIRS
-- 4 SITTING
-- 5 STANDING
-- 6 LAYING
+* 1 WALKING
+* 2 WALKING_UPSTAIRS
+* 3 WALKING_DOWNSTAIRS
+* 4 SITTING
+* 5 STANDING
+* 6 LAYING
 
 3. activity_name : descriptive name substituting activity according to above activity code annotation. 
 
